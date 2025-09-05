@@ -7,3 +7,4 @@ uv run python pytorch-CycleGAN-and-pix2pix/train.py \
 --crop_size 256 \
 --n_epochs 100 \
 --use_wandb
+# --continue_train
