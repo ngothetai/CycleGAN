@@ -18,3 +18,15 @@ logs/
 
 # Results
 results/
+
+checkpoints
+
+wandb/
+
+.vscode/
+
+.idea/
+
+.pytest_cache/
+
+.DS_Store
