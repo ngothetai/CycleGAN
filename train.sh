@@ -1,4 +1,4 @@
-uv run python pytorch-CycleGAN-and-pix2pix/train.py \
+uv run python pytorch-CycleGAN/train.py \
 --dataroot ./datasets/histology_stain \
 --name histology_stain_cyclegan_training \
 --model cycle_gan \
